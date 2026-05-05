@@ -1,7 +1,7 @@
 # UK-Train-Rides
 
 #Description :
-End-to-end data analysis project on railway ticket sales. Performed data cleaning, handling missing values, and exploratory analysis using Excel / Power BI to uncover revenue trends, delay patterns, and customer behavior.
+End-to-end data analysis project on railway ticket sales. Performed data cleaning, handling missing values, and exploratory analysis using Power BI to uncover revenue trends, delay patterns, and customer behavior.
 
 #Team Members:  
 1- Bassem Mohamed Ezz
